@@ -1,0 +1,8 @@
+App usage:
+
+To run on Windows, launch the application
+
+select your source directory containing the sub-folders with apps
+
+Select the target directory
+  
